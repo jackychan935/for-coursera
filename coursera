@@ -1,0 +1,173 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "4bac16be-3beb-409e-8269-d00274cee06f",
+   "metadata": {},
+   "source": [
+    "my assigment "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "effa2c2e-f2bf-400d-a9ef-da014aac26d1",
+   "metadata": {},
+   "source": [
+    "#introoduction ; this is my assigments for final!!!"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6b297d5e-7fe9-4752-8437-24f2c816d308",
+   "metadata": {},
+   "source": [
+    "data sciene coding language are :\n",
+    "\n",
+    "1-Scala\n",
+    "2-java\n",
+    "3-python\n",
+    "4-R\n",
+    "5-SQL\n",
+    "6-julia"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "57244783-5cdc-4325-b125-63bfe0ee6a78",
+   "metadata": {},
+   "source": [
+    "- NumPy : Numerical computing library for handling large, multi-dimensional arrays and matrices.\n",
+    "- Pandas: Data manipulation and analysis library, providing powerful data structures and tools for working with structured data.\n",
+    "- Matplotlib : Plotting library for creating static, interactive, and animated visualizations in Python.\n",
+    "-  Seaborn: Statistical data visualization library based on Matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.\n",
+    "- scikit-learn : Machine learning library that provides simple and efficient tools for data mining and data analysis, built on NumPy, SciPy, and Matplotlib.\n",
+    "- TensorFlow : Open-source machine learning framework developed by Google for building and training neural networks and deep learning models.\n",
+    "- Keras: High-level neural networks API, written in Python and capable of running on top of TensorFlow, Theano, or Microsoft Cognitive Toolkit.\n",
+    "-PyTorch: Deep learning framework developed by Facebook's AI Research lab, known for its dynamic computation graph and ease of use.\n",
+    "- NLTK (Natural Language Toolkit): Library for building Python programs to work with human language data, including tokenization, stemming, tagging, parsing, and more."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "260a0e54-b16e-4742-a877-dca2a4f62c34",
+   "metadata": {},
+   "source": [
+    "Jupyter Notebook / JupyterLab: Interactive web-based environments that allow you to create and share documents containing live code, equations, visualizations, and narrative text. They support multiple programming languages including Python, R, and Julia.\n",
+    "\n",
+    "RStudio: An integrated development environment (IDE) for R programming language. It provides a user-friendly interface for data analysis, visualization, and statistical modeling.\n",
+    "\n",
+    "Apache Spark: A fast and general-purpose cluster computing system for big data processing. It provides APIs in multiple languages (Scala, Java, Python, R) and supports various data processing tasks including batch processing, real-time streaming, machine learning, and graph processing.\n",
+    "\n",
+    "Apache Hadoop: An open-source framework for distributed storage and processing of large datasets across clusters of computers. It includes modules such as Hadoop Distributed File System (HDFS) for storage and MapReduce for parallel processing.\n",
+    "\n",
+    "\n",
+    "Tableau: A powerful data visualization tool that allows you to create interactive dashboards and reports from various data sources. It supports a wide range of visualization types and is popular for its ease of use.\n",
+    "\n",
+    "Excel: While not specifically designed for data science, Excel is widely used for data manipulation, analysis, and visualization. It offers basic statistical functions and charting capabilities suitable for simple data tasks."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "879a448b-47c4-4fd8-890e-d02b6d78c38b",
+   "metadata": {},
+   "source": [
+    "\n",
+    "\n",
+    "there are a lot such as : addition like ( 5 + 5=10 ) , subtraction like (5-4=1) , multiplication(5**5=25), and division such as (4%2=2). These expressions are fundamental in mathematics and often used in various data science and programming tasks.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "e1b4d8c5-14bd-4380-b72e-65f2d1787ff5",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Multiplication result: 15\n",
+      "Addition result: 17\n"
+     ]
+    }
+   ],
+   "source": [
+    "\n",
+    "num1 = 5\n",
+    "num2 = 3\n",
+    "result_multiply = num1 * num2\n",
+    "print(\"Multiplication result:\", result_multiply)\n",
+    "\n",
+    "\n",
+    "num3 = 10\n",
+    "num4 = 7\n",
+    "result_addition = num3 + num4\n",
+    "print(\"Addition result:\", result_addition)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "01a830e0-57bd-4cf6-aba7-0fef7712f1b8",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "150 minutes is equal to 2.5 hours.\n"
+     ]
+    }
+   ],
+   "source": [
+    "#lets say \n",
+    "minutes = 150\n",
+    "\n",
+    "\n",
+    "hours = minutes / 60\n",
+    "\n",
+    "\n",
+    "print(minutes, \"minutes is equal to\", hours, \"hours.\")\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0b481919-abb0-499d-b11b-27a76d22415f",
+   "metadata": {},
+   "source": [
+    "\n",
+    "\n",
+    "In this exercise, our objective is to complete the assignment by\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e05ae6ec-a20c-4f5f-8c7a-078db9462f0a",
+   "metadata": {},
+   "source": [
+    "The author name is Hasan Alothman"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
